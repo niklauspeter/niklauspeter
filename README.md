@@ -62,17 +62,22 @@
 
 ## Academic Background:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="#"/>](https://www.alxafrica.com/)
+[<img align="left" height="94px" width="94px" alt="ALX" src="#"/>](https://www.alxafrica.com/)
 **Software Engineering Certificate** \
-[**ALX, Africa**](https://www.alxafrica.com/)  • In progress\
+[**ALX, Africa**](https://www.alxafrica.com/)  • complete\
 Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
 `Project Management` `Software Development` `Software Security` `Software Quality`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="#"/>](https://www.moringaschool.com/)
+[<img align="left" height="94px" width="94px" alt="Moringa" src="#"/>](https://www.moringaschool.com/)
 **Full Stack Developer** \
-[**Moringa School**](https://www.moringaschool.com/) • In progress \
-Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs`
-`Bulma` `MongoDB` `ElectronJS`
+[**Moringa School**](https://www.moringaschool.com/) • complete \
+Skills: `HTML5` `CSS3` `django` `python` `anguar` `flask` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `sqLite`
+
+[<img align="left" height="94px" width="94px" alt="Moringa" src="#"/>](https://www.moringaschool.com/)
+
+**Business Information Technology** \
+[**Jommo Kenyatta University of Agriculture and Technology **](https://www.jkuat.com/) • complete \
+Skills: `HTML` `CSS` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `Java` `C` `C++`
 
 <br>
 
@@ -85,5 +90,5 @@ Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `G
 
 
 ------
-Credit: [niklauspeter](https://github.com/niklauspeter)
+Credit: [Oriokiklaus@gmail.com](https://github.com/niklauspeter)
 Last Edited on: 12/03/2024
