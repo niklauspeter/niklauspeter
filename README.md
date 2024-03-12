@@ -73,7 +73,7 @@ Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture`
 [**Moringa School**](https://www.moringaschool.com/) • complete \
 Skills: `HTML5` `CSS3` `django` `python` `anguar` `flask` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `sqLite`
 
-[<img align="left" height="94px" width="94px" alt="Moringa" src="#"/>](https://www.moringaschool.com/)
+[<img align="left" height="94px" width="94px" alt="JKUAT" src="#"/>](https://www.moringaschool.com/)
 
 **Business Information Technology** \
 [**Jommo Kenyatta University of Agriculture and Technology **](https://www.jkuat.com/) • complete \
