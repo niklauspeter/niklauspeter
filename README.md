@@ -4,7 +4,12 @@
 <h4 align="center">- Klaus orioki -</h4>
 
 <br>
+<p align="center">
+ A versatile and passionate full-stack software engineer with With a froclivity for backend development.<br>I specialize in crafting dynamic and responsive web applications, leveraging scripting languages such as Python, JavaScript, and CSS, and frameworks such as Django and Flask to build robust and scalable solutions.
+ <br>
+ My true passion lies in pushing the boundaries in tech by contributing to larger-scale microservices. Eager to collaborate within teams, I am excited about the prospect of linking with like-minded individuals to drive technological innovation by creating more wholesome, agile systems.</p>
 
+<br>
 <div align="center" style="margin-bottom:200px">
  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=niklauspeter&theme=radical&show_icons=true" />
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklauspeter&layout=compact&theme=radical" />
