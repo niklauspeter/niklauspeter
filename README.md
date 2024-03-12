@@ -105,5 +105,5 @@ Skills: `HTML` `CSS` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `Postg
 
 
 ------
-Credit: [Oriokiklaus@gmail.com](https://github.com/niklauspeter)
+Email: [Oriokiklaus@gmail.com](https://github.com/niklauspeter)
 Last Edited on: 12/03/2024
