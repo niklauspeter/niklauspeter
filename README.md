@@ -70,7 +70,7 @@
 
 ## Academic Background:
 
-[<img align="left" height="94px" width="94px" alt="ALX" src="#"/>](https://www.alxafrica.com/)
+[<img align="left" height="94px" width="94px" alt="ALX" src="https://www.alxafrica.com/wp-content/uploads/2023/12/favicon-32x32-1.png"/>](https://www.alxafrica.com/)
 **Software Engineering Certificate** \
 [**ALX, Africa**](https://www.alxafrica.com/)  • complete\
 Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
