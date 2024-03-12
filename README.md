@@ -17,6 +17,14 @@
 
 
 <br>
+<h3 align="center"> Contact Me </h3>
+<div align="center">
+<a href="#" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href='https://drive.google.com/file/d/1W8KP1v5DwOXqJ6Tk9foNK9B8w_1H7_yr/view?usp=sharing'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a>
+<a href = "mailto: oriokiklaus@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="linkedin.com/in/klaus-orioki-597b3418b/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+<br>
 
 ## Language and Tools
 
@@ -92,7 +100,7 @@ Skills: `HTML` `CSS` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `Postg
 <a href="#" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href='https://drive.google.com/file/d/1W8KP1v5DwOXqJ6Tk9foNK9B8w_1H7_yr/view?usp=sharing'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a>
 <a href = "mailto: oriokiklaus@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/klausorioki/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="linkedin.com/in/klaus-orioki-597b3418b/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 
