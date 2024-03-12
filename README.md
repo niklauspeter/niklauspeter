@@ -80,8 +80,8 @@ Skills: `HTML5` `CSS3` `django` `python` `anguar` `flask` `Bootstrap` `JavaScrip
 Skills: `HTML` `CSS` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `Java` `C` `C++`
 
 <br>
-
-<p align="center">Successful completed The ALX Software Engineering Course</p>
+<h4>
+<p align="center">Hey, I successfully completed The ALX Software Engineering Course</p>
 
 </h4>
 <br>
