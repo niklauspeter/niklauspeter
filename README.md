@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Klaus+Orioki;I'm+a+full-stack+Software+Engineer;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 <h3 align="center">"Let's Talk Code"</h3>
-<h4 align="center">- Klaus orioki -</h4>
+<h4 align="center">- Klaus Peter Orioki -</h4>
 
 <br>
 <p align="center">
@@ -82,7 +82,6 @@ Skills: `HTML` `CSS` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `Postg
 <br>
 <h4>
 <p align="center">Hey, I successfully completed The ALX Software Engineering Course</p>
-
 </h4>
 <br>
 
