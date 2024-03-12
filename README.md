@@ -90,7 +90,7 @@ Skills: `HTML` `CSS` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `Postg
 <br>
 <h4>
 <p align="center">Hey, I successfully completed The ALX Software Engineering Course</p>
-</h4>
+
 <br>
 
 ![alxcert](klauspeteralxcertificate.png)
