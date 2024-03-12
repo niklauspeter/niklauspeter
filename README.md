@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Klaus+Orioki;I'm+a+full-stack+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Klaus+Orioki;I'm+a+full-stack+Software+Engineer;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 <h3 align="center">"Let's Talk Code"</h3>
 <h4 align="center">- Klaus orioki -</h4>
@@ -23,6 +23,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Main Stack:
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://developer.mozilla.org/en-US/docs/Web/PYTHON)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=MYSQL"/>](https://developer.mozilla.org/en-US/docs/Web/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=LINUX"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
