@@ -76,14 +76,14 @@
 Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
 `Project Management` `Software Development` `Software Security` `Software Quality`
 
-[<img align="left" height="94px" width="94px" alt="Moringa" src="#"/>](https://www.moringaschool.com/)
+[<img align="left" height="94px" width="94px" alt="Moringa" src="https://moringaschool.com/wp-content/uploads/2022/02/cropped-favicon-192x192.png"/>](https://www.moringaschool.com/)
 **Full Stack Developer** \
 [**Moringa School**](https://www.moringaschool.com/) • complete \
 Skills: `HTML5` `CSS3` `django` `python` `anguar` `flask` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `sqLite`
 
 [<img align="left" height="94px" width="94px" alt="JKUAT" src="#"/>](https://www.moringaschool.com/)
 
-**Business Information Technology** \
+**Bachelor of Business Information Technology** \
 [**Jommo Kenyatta University of Agriculture and Technology **](https://www.jkuat.com/) • complete \
 Skills: `HTML` `CSS` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `Java` `C` `C++`
 
